@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Ejercicio_04 {
     public static void main(String[] args) {
+
         //Declaraccion de flujo de trabajo
         Scanner scan = new Scanner(System.in);
 
