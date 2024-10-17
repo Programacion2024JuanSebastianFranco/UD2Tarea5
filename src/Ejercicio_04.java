@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Ejercicio_04 {
     public static void main(String[] args) {
-
         //Declaraccion de flujo de trabajo
         Scanner scan = new Scanner(System.in);
 
@@ -11,7 +10,7 @@ public class Ejercicio_04 {
         int conValidos = 0;
 
         //Almacenar ultimo numero para comprobacion
-        int ultimo = 0;
+        int ultimo;
 
         //Imprimir datos al usuario
         System.out.println("Introduce numeros. Introduce 0 para finalizar.");
