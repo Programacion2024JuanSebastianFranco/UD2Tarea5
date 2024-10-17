@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="682ad0f1-3c4a-4e06-aa76-713101593d20" name="Changes" comment="Inicio Ejercicio_03">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +30,12 @@
     &quot;assignee&quot;: &quot;ZianFranxes&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Programacion2024JuanSebastianFranco/UD2Tarea5.git&quot;,
-    &quot;accountId&quot;: &quot;e11735f2-e0b8-4ffb-aa77-aafecd41b50d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Programacion2024JuanSebastianFranco/UD2Tarea5.git",
+    "accountId": "61a36e04-f327-4da5-a693-a1752d835cff"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,7 +51,8 @@
   "keyToString": {
     "Application.Ejercicio_01.executor": "Run",
     "Application.Ejercicio_02.executor": "Run",
-    "Application.Ejercicio_03.executor": "Run",
+    "Application.Ejercicio_03.executor": "Debug",
+    "Application.Ejercicio_04.executor": "Run",
     "Application.Ejercicio_07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -89,5 +91,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio Ejercicio_03" />
     <option name="LAST_COMMIT_MESSAGE" value="Inicio Ejercicio_03" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ejercicio_04.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
